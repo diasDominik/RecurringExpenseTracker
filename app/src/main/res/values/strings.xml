@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_configuration_biometric">Please deactivate Biometric to use this Widget</string>
+    <string name="widget_configuration_biometric_deactivate">Deactivate Biometric</string>
+</resources>
